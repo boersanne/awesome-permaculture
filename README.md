@@ -37,6 +37,38 @@ Curated readings, designs, and tooling for permaculture — the ecology-led desi
 - [USDA Web Soil Survey](https://websoilsurvey.nrcs.usda.gov/) — US-only, very detailed.
 - [ECMWF reanalysis](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5) — historical weather.
 
+## Water
+
+- [The Permaculture Earthworks Handbook](https://chelseagreen.com/) (Doug Crouch) — swales, terraces, ponds.
+- [Brad Lancaster's *Rainwater Harvesting for Drylands*](https://www.harvestingrainwater.com/) — accessible, dryland-focused.
+- [FreshWater Forum](https://www.freshwater.org/) — practical articles on small ponds.
+
+## Standards & policy
+
+- [Permaculture Association Britain](https://www.permaculture.org.uk/) — UK accreditation pathway.
+- [Permaculture Research Institute](https://www.permaculturenews.org/) — Geoff Lawton's organization, project case studies.
+- [LANDS network](https://landsnetwork.org/) — Latin American permaculture co-op.
+
+## Magazines & journals
+
+- *Permaculture Design Magazine* (US).
+- *Permaculture Magazine* (UK + International edition).
+- *Acres U.S.A.* — broader sustainable-ag, lots of permie overlap.
+
+## Communities
+
+- r/Permaculture
+- Permies.com forums (Paul Wheaton)
+- IFOAM affiliates by country.
+
+## Contributing
+
+PRs welcome. Each entry must be:
+
+1. Open or affordable (≤ ~$50 books are fine).
+2. Genuinely about permaculture or directly adjacent (regenerative ag, agroecology, agroforestry).
+3. Currently useful — broken links removed on sight.
+
 ## License
 
 [MIT](LICENSE).
