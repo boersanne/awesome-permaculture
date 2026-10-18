@@ -17,6 +17,7 @@ Curated readings, designs, and tooling for permaculture — the ecology-led desi
 - [Toby Hemenway's lectures on YouTube](https://www.youtube.com/results?search_query=toby+hemenway) — multi-hour archive.
 
 ## Plant & species references
+- [CloverAcre](https://cloveracre.com/) — free reference for home canning, backyard chickens and kitchen gardening.
 
 - [Plants For A Future (PFAF)](https://pfaf.org/) — searchable database of edible/useful plants. Free for individuals.
 - [Practical Plants](http://practicalplants.org/) — community wiki, similar dataset.
