@@ -29,6 +29,7 @@ Curated readings, designs, and tooling for permaculture — the ecology-led desi
 - [QGIS](https://qgis.org/) — free GIS for site mapping and overlays.
 - [SketchUp Free](https://www.sketchup.com/plans-and-pricing/sketchup-free) — quick 3D site sketches.
 - [Permapeople](https://permapeople.org/) — plant database + community garden planner.
+- [Land Area Measure](https://land.hertzmc.com/) — size a paddock, field or whole site in the browser: tap corners on a satellite map or walk the edge with GPS for acres and square feet, plus cubic yards of gravel for a path or pad.
 
 ## Climate & site data
 
